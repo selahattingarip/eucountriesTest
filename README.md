@@ -2,9 +2,9 @@
 
 Using Rest-assured and TestNG
 ---
-In this project, you can find how to automate REST APIs using Rest-Assured library and TestNG. Rest Assured is a Java library that we can test 
-and validate the REST web services. Rest-assured provides its own validating mechanism(assertions for validating response). TestNG is used for clear 
-test results, it is supported by a variety of tools and plug-ins (Eclipse, IDEA, Maven, etc...).
+In this project, you can find how to automate REST APIs using Rest-Assured library and TestNG. Rest Assured is a Java library that 
+we can test and validate the REST web services (send request, fetch data, parsing etc.). TestNG is used to validate the responses via assertion, and it is supported 
+by a variety of tools and plug-ins (Eclipse, IDEA, Maven, etc...).
 
 There are three test scenarios in the project:
 ---
@@ -48,7 +48,7 @@ Belows will be used:
 
 3-Download project from Project Download link below to a folder in your PC.
 
-4-Open Eclipse IDE-->New-->Project-->type "maven"-->choose "Maven Project"-->click Next-->choose Workspace location which you download from GitHub-->Next
+4-Open Eclipse IDE-->File-->Import-->type "maven"-->choose "Existing Maven Projects"-->click Next-->choose Root Directory which you download from GitHub-->Finish
 
 5-Click Help in Eclipse-->Eclipse Marketplace-->type "testng" to find-->click Magnifier to find-->install "TestNG for Eclipse"
 

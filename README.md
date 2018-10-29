@@ -75,8 +75,8 @@ PASSED: nameTurkish
 
 PASSED: nativeNameTurkce
 
-Note: RegionTurkey and CapitalAnkara test classes have seperate tests for every steps. However, CapitalNameAze test class has one one test
-,and also test result, for its three steps.
+Note: RegionTurkey and CapitalAnkara test classes have seperate tests for every steps. However, CapitalNameAze test class has one test
+,and also one test result, for its three steps.
  
 Project source can be downloaded from https://github.com/selahattingarip/eucountriesTest.git
 ---
